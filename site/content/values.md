@@ -1,5 +1,91 @@
-+++
-title = "Values"
-type = "values"
-page="/values.html"
-+++
+---
+title: 'Tampa Convention Center  '
+type: products
+page: /products.html
+image: /img/001_ConvCtr_Night_9-2-13.jpg
+heading: A Treasure Worth Discovering
+description: >-
+  The Tampa Convention Center provides the very best that Florida has to offer
+  with dazzling sunshine and sparkling waterfront views.
+intro:
+  blurbs:
+    - image: /img/Gasparilla-Ship-for-website.jpg
+      text: Experience the Gasparilla invasion with us at the TCC Marina.
+    - image: /img/The-Sail---Facebook-page-photo.png
+      text: Customize an E-Postcard and send it to your friends.
+    - image: /img/illustrations/tutorials.svg
+      text: >
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
+    - image: /img/illustrations/meeting-space.svg
+      text: >
+        We believe that good coffee has the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow coffee lovers and learn about
+        coffee making techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
+  heading: A Treasure Worth Discovering
+  description: >-
+    The Tampa Convention Center provides the very best that Florida has to offer
+    with dazzling sunshine and sparkling waterfront views.  Combine those two
+    natural elements with a totally flexible space and elegant interior designs
+    and you have an event destination beyond compare.
+main:
+  heading: Datz And Big Ray's Fish Camp Are
+  description: >-
+    Take a look at the plans for bringing two local favorites, Datz and Big
+    Ray's Fish Camp, into the TCC family by clicking on the image above.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products/products-grid3.jpg
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products/products-grid2.jpg
+  image3:
+    alt: Coffee beans
+    image: /img/products/products-grid1.jpg
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
+full_image: /img/products/products-full-width.jpg
+pricing:
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
+  plans:
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
+      plan: Small
+      price: '50'
+    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: '?'
+---
+
+
+
