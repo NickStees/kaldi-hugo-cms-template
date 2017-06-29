@@ -1,29 +1,18 @@
 ---
-title: Our Coffee
+title: Tampa Convention Center
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
+image: /img/001_ConvCtr_Night_9-2-13.jpg
+heading: A Treasure Worth Discovering
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Tampa Convention Center provides the very best that Florida has to offer
+  with dazzling sunshine and sparkling waterfront views.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/Gasparilla-Ship-for-website.jpg
+      text: Experience the Gasparilla invasion with us at the TCC Marina.
+    - image: /img/The-Sail---Facebook-page-photo.png
+      text: Customize an E-Postcard and send it to your friends.
     - image: /img/illustrations/tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -38,19 +27,17 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: A Treasure Worth Discovering
+  description: >-
+    The Tampa Convention Center provides the very best that Florida has to offer
+    with dazzling sunshine and sparkling waterfront views.  Combine those two
+    natural elements with a totally flexible space and elegant interior designs
+    and you have an event destination beyond compare.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Datz And Big Ray's Fish Camp Are
+  description: >-
+    Take a look at the plans for bringing two local favorites, Datz and Big
+    Ray's Fish Camp, into the TCC family by clicking on the image above.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -99,4 +86,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
